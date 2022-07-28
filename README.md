@@ -20,7 +20,7 @@ BACK END
 Ouvrir un terminal dans le dossier backend puis effectuer les lignes de commandes suivantes :
 
 - npm install
-- node server
+- nodemon server
 
 FRONT END
 
