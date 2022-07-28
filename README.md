@@ -11,6 +11,8 @@ Prérequis :
 
 -MySql : https://dev.mysql.com/downloads/installer/
 
+Créer un dossier vide puis cloner ce repository à l'intérieur.
+
 BACK END
 
 Ouvrir un terminal dans le dossier backend puis effectuer les lignes de commandes suivantes :
