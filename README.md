@@ -13,6 +13,8 @@ Prérequis :
 
 Créer un dossier vide puis cloner ce repository à l'intérieur.
 
+Le projet requiert la connection à une base de donnée MYSQL. Pour cela, créez une base de donnée "groupomania" et importez-y le fichier ./backend/groupomania.sql contenant les tables du projet. Au besoin, il faut également modifier le fichier .env dans le dossier "backend" afin d'y inclure vos propres identifiants de connexion à la base de donnée.
+
 BACK END
 
 Ouvrir un terminal dans le dossier backend puis effectuer les lignes de commandes suivantes :
